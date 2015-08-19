@@ -1,2 +1,2 @@
 # Java
-PHP
+QetriX Framework in Java
