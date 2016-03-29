@@ -1,7 +1,7 @@
 package com.qetrix.libs.components.qlist;
 
 /* Copyright (c) QetriX.com. Licensed under MIT License, see /LICENSE.txt file.
- * 2016-01-13 | QListCol part of QList component
+ * 16.01.13 | QListCol part of QList component
  */
 
 import java.util.ArrayList;
